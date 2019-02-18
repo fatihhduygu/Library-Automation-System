@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5206db10-8063-4d2e-a225-35e4e4a35f54" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="523938876">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="59" />
+          <entry key="html" value="3038" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="59" />
+          <entry key="HTML" value="3038" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1891764058">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="559" />
+          <entry key="php" value="25596" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="559" />
+          <entry key="PHP" value="25462" />
+          <entry key="SQL" value="134" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="7" />
+          <entry key="html" value="2" />
+          <entry key="php" value="230" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="2" />
+          <entry key="PHP" value="230" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>button</find>
+      <find>uppercase</find>
+      <find>hr</find>
+      <find>hata</find>
+      <find>display</find>
+      <find>thumbnail</find>
+      <find>location</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/404.php" />
+        <option value="$PROJECT_DIR$/php/link.php" />
+        <option value="$PROJECT_DIR$/php/menu.php" />
+        <option value="$PROJECT_DIR$/Admin/custom.css" />
+        <option value="$PROJECT_DIR$/Admin/index.html" />
+        <option value="$PROJECT_DIR$/baglan.php" />
+        <option value="$PROJECT_DIR$/Admin/yazar.php" />
+        <option value="$PROJECT_DIR$/Admin/uye.php" />
+        <option value="$PROJECT_DIR$/Admin/kitap.php" />
+        <option value="$PROJECT_DIR$/Admin/yayinevi.php" />
+        <option value="$PROJECT_DIR$/Admin/kategori.php" />
+        <option value="$PROJECT_DIR$/Admin/index.php" />
+        <option value="$PROJECT_DIR$/Admin/İslem/index1.php" />
+        <option value="$PROJECT_DIR$/Admin/Uye/insert.php" />
+        <option value="$PROJECT_DIR$/UyeOl.php" />
+        <option value="$PROJECT_DIR$/Admin/YayinEvi/insert.php" />
+        <option value="$PROJECT_DIR$/Admin/Kitap/insert.php" />
+        <option value="$PROJECT_DIR$/Admin/Yazar/insert.php" />
+        <option value="$PROJECT_DIR$/Admin/Kategori/insert.php" />
+        <option value="$PROJECT_DIR$/Admin/Kitap/update.php" />
+        <option value="$PROJECT_DIR$/Admin/Yazar/update.php" />
+        <option value="$PROJECT_DIR$/Admin/YayinEvi/update.php" />
+        <option value="$PROJECT_DIR$/Admin/Kategori/update.php" />
+        <option value="$PROJECT_DIR$/Admin/php/footer.php" />
+        <option value="$PROJECT_DIR$/Admin/Yazar/index.php" />
+        <option value="$PROJECT_DIR$/Admin/YayinEvi/index.php" />
+        <option value="$PROJECT_DIR$/Admin/Kategori/index.php" />
+        <option value="$PROJECT_DIR$/Admin/Uye/index.php" />
+        <option value="$PROJECT_DIR$/Admin/Uye/update.php" />
+        <option value="$USER_HOME$/Desktop/index.php" />
+        <option value="$PROJECT_DIR$/php/meta.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/Admin/Islem/cikis.php" />
+        <option value="$PROJECT_DIR$/Admin/cikis.php" />
+        <option value="$PROJECT_DIR$/Admin/php/header.php" />
+        <option value="$PROJECT_DIR$/cikis.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Admin/Islem/index.php" />
+        <option value="$PROJECT_DIR$/kategoriarama.php" />
+        <option value="$PROJECT_DIR$/php/header.php" />
+        <option value="$PROJECT_DIR$/detay.php" />
+        <option value="$PROJECT_DIR$/isbnarama.php" />
+        <option value="$PROJECT_DIR$/kitaptarama.php" />
+        <option value="$PROJECT_DIR$/Admin/Kitap/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+      <recent name="C:\xampp\htdocs\Admin" />
+      <recent name="C:\xampp\htdocs\Admin\Uye" />
+      <recent name="C:\xampp\htdocs\Admin\Yazar" />
+      <recent name="C:\xampp\htdocs\Admin\YayinEvi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Admin" />
+      <recent name="C:\xampp\htdocs\Admin\Islem" />
+      <recent name="C:\xampp\htdocs\css" />
+      <recent name="C:\Users\fatih\Desktop\untitled\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5206db10-8063-4d2e-a225-35e4e4a35f54" name="Default Changelist" comment="" />
+      <created>1543754933638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543754933638</updated>
+      <workItem from="1543754935856" duration="7648000" />
+      <workItem from="1543762640117" duration="10506000" />
+      <workItem from="1543775828779" duration="195000" />
+      <workItem from="1543777604976" duration="12343000" />
+      <workItem from="1543820845336" duration="3321000" />
+      <workItem from="1543845789863" duration="6436000" />
+      <workItem from="1543868285580" duration="5774000" />
+      <workItem from="1543901532770" duration="7406000" />
+      <workItem from="1543909883113" duration="11417000" />
+      <workItem from="1544278462831" duration="2845000" />
+      <workItem from="1544282987493" duration="6728000" />
+      <workItem from="1544290801345" duration="116000" />
+      <workItem from="1544290992567" duration="16949000" />
+      <workItem from="1544354879495" duration="14176000" />
+      <workItem from="1544373186013" duration="923000" />
+      <workItem from="1544383632939" duration="349000" />
+      <workItem from="1544384006793" duration="9755000" />
+      <workItem from="1544443382326" duration="599000" />
+      <workItem from="1544512381749" duration="624000" />
+      <workItem from="1544516021412" duration="12000" />
+      <workItem from="1546592083920" duration="16348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134470000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.0" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/finish/23-Modals.html" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="198" column="11" selection-start-line="198" selection-start-column="4" selection-end-line="198" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Php/nav.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/index.html" />
+    <entry file="file://$PROJECT_DIR$/Admin/custom.css" />
+    <entry file="file://$PROJECT_DIR$/baglan.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/kitap.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/uye.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/yayinevi.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/yazar.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/kategori.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Islem/index1.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Uye/insert.php" />
+    <entry file="file://$PROJECT_DIR$/UyeOl.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Kategori/insert.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/YayinEvi/insert.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Yazar/insert.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/YayinEvi/update.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Yazar/update.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/index.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/YayinEvi/index.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Yazar/index.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Kategori/index.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Uye/index.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Uye/update.php" />
+    <entry file="file://$USER_HOME$/Desktop/index.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Kategori/update.php" />
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/cikis.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/php/footer.php" />
+    <entry file="file://$PROJECT_DIR$/cikis.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/php/header.php" />
+    <entry file="file://$PROJECT_DIR$/php/link.php" />
+    <entry file="file://$PROJECT_DIR$/php/menu.php" />
+    <entry file="file://$PROJECT_DIR$/php/meta.php" />
+    <entry file="file://$PROJECT_DIR$/php/end.php" />
+    <entry file="file://$PROJECT_DIR$/php/slider.php" />
+    <entry file="file://$PROJECT_DIR$/Admin/Kitap/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Kitap/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="105" column="25" lean-forward="true" selection-start-line="100" selection-start-column="15" selection-end-line="105" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kategoriarama.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="201" selection-start-line="15" selection-start-column="201" selection-end-line="15" selection-end-column="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="93" lean-forward="true" selection-start-line="29" selection-start-column="93" selection-end-line="29" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Islem/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isbnarama.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kitaptarama.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin/Kitap/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="206" selection-start-line="5" selection-start-column="206" selection-end-line="5" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
